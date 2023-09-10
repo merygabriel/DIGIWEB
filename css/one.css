@@ -1,0 +1,30 @@
+/* Theme */
+#switcher .theme-click {
+	background-color: #44bbff;
+}
+/* Buttons*/
+.cs-nav-btn {
+	background-color:  #44bbff;
+}
+.btn-primary {
+	background-color: #44bbff;
+}
+.btn-white-primary {
+	color: #44bbff;
+}
+/* Blog */
+.cs-blog:hover .cs-blog-category {
+	background-color:  #44bbff;
+}
+/* About Icons */
+.cs-about-content ul>li .fa {
+	color: #44bbff;
+}
+/* Price Table */
+.cs-price-popular {
+	background-color: #44bbff;
+}
+/* Icon color */
+.cs-icontext .cs-icon,.navbar-default.cs-primary-navbar .navbar-nav>li>a:hover,.navbar-default.cs-primary-navbar .navbar-nav>li>a:focus {
+	color: #44bbff;
+}
